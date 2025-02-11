@@ -1,22 +1,26 @@
 <h1 align="center">
   <a href="#">
     <svg width="100%" height="60">
-      <text x="50%" y="50%" font-size="40" font-family="Arial" font-weight="bold" fill="url(#gradient)" text-anchor="middle" alignment-baseline="middle">
-        🎮 Welcome to My Profile 🎮
-      </text>
       <defs>
         <linearGradient id="gradient">
           <stop offset="0%" stop-color="#ff0000">
-            <animate attributeName="stop-color" values="#ff0000;#ff7f00;#ffff00;#00ff00;#0000ff;#4b0082;#8b00ff;#ff0000" dur="5s" repeatCount="indefinite"/>
+            <animate attributeName="stop-color" values="#ff0000;#ff7f00;#ffff00;#00ff00;#0000ff;#4b0082;#8b00ff;#ff0000" dur="3s" repeatCount="indefinite"/>
           </stop>
-          <stop offset="100%" stop-color="#8b00ff">
-            <animate attributeName="stop-color" values="#8b00ff;#4b0082;#0000ff;#00ff00;#ffff00;#ff7f00;#ff0000;#8b00ff" dur="5s" repeatCount="indefinite"/>
+          <stop offset="50%" stop-color="#00ff00">
+            <animate attributeName="stop-color" values="#00ff00;#0000ff;#4b0082;#8b00ff;#ff0000;#ff7f00;#ffff00;#00ff00" dur="3s" repeatCount="indefinite"/>
+          </stop>
+          <stop offset="100%" stop-color="#0000ff">
+            <animate attributeName="stop-color" values="#0000ff;#4b0082;#8b00ff;#ff0000;#ff7f00;#ffff00;#00ff00;#0000ff" dur="3s" repeatCount="indefinite"/>
           </stop>
         </linearGradient>
       </defs>
+      <text x="50%" y="50%" font-size="40" font-family="Arial" font-weight="bold" fill="url(#gradient)" text-anchor="middle" alignment-baseline="middle">
+        🎮 Welcome to My Profile 🎮
+      </text>
     </svg>
   </a>
 </h1>
+
 
 
 <p align="center">
