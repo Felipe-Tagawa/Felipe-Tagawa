@@ -4,14 +4,14 @@
 </p>
 
 ---
-## 🦊 About Me
+<h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> About Me </h2>
 <table>
 <tr>
 <td>
 
-- **Name:** Felipe Tagawa  
-- **Interests:** C++, Python, Java, Data Analysis  
-- **Occupation:** Computer Engineering Student  
+- **Name:** Felipe Tagawa 🌟 
+- **Interests:** C++, Python, Java, Data Analysis 💻
+- **Occupation:** Computer Engineering Student 🎓
 </td>
 <td>
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/432780e4-f104-4387-987f-8611d44dc1c4/d7vvhqh-4e2a1787-eccd-41a4-8901-74fed194c309.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQzMjc4MGU0LWYxMDQtNDM4Ny05ODdmLTg2MTFkNDRkYzFjNFwvZDd2dmhxaC00ZTJhMTc4Ny1lY2NkLTQxYTQtODkwMS03NGZlZDE5NGMzMDkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kAQV85pmLBElRfmTjBEsAd_u8ti8AZ05StJi45st9ew" width="200">
@@ -20,8 +20,7 @@
 </table>
 
 ---
-
-## 📇 Knowledge
+<h2 align="center">⚡ Tech Stack ⚡</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/C%20-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
@@ -32,8 +31,7 @@
 </p>
 
 ---
-
-## 📬 Get in Touch
+<h2 align="center">🌟 Get in Touch 🌟</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/felipe-tagawa/">
     <img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -43,4 +41,6 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=flat-square">
+</p>
