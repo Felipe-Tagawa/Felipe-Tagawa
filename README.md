@@ -6,7 +6,17 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=100&lines=Backend+Developer;Dark+Souls+Fan;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=435&lines=Backend+Developer" alt="Typing SVG" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=Dark+Souls+Fan" alt="Typing SVG" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=0000FF&center=true&vCenter=true&width=435&lines=Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
