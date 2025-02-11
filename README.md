@@ -42,5 +42,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=OKamizura&color=blueviolet&style=flat-square">
 </p>
