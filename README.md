@@ -14,11 +14,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=Dark+Souls+Fan" alt="Typing SVG" />
   </a>
 </p>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=450&color=0000FF&center=true&vCenter=true&width=435&lines=Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
-</p>
 
 ---
 <h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> About Me </h2>
