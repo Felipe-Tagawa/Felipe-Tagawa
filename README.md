@@ -1,38 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100">
-  <defs>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ff0000">
-        <animate attributeName="stop-color" 
-                 values="#ff0000;#ff7f00;#ffff00;#00ff00;#0000ff;#4b0082;#8b00ff;#ff0000" 
-                 dur="5s" 
-                 repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" stop-color="#00ff00">
-        <animate attributeName="stop-color" 
-                 values="#00ff00;#0000ff;#4b0082;#8b00ff;#ff0000;#ff7f00;#ffff00;#00ff00" 
-                 dur="5s" 
-                 repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#0000ff">
-        <animate attributeName="stop-color" 
-                 values="#0000ff;#4b0082;#8b00ff;#ff0000;#ff7f00;#ffff00;#00ff00;#0000ff" 
-                 dur="5s" 
-                 repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
-  <text x="400" y="50" 
-        font-size="40" 
-        font-family="Arial, sans-serif" 
-        font-weight="bold" 
-        fill="url(#gradient)" 
-        text-anchor="middle" 
-        dominant-baseline="middle">
-    🎮 Welcome to My Profile 🎮
-  </text>
-</svg>
-
-
+<div align="center">
+  <img src="github-header.svg" width="800" height="100" alt="Welcome to My Profile">
+</div>
 
 <p align="center">
   <img src="https://media.tenor.com/QTbcrC893SIAAAAi/solaire.gif">
