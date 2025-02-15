@@ -31,3 +31,109 @@
     🎮 Welcome to My Profile 🎮
   </text>
 </svg>
+
+
+import React, { useState, useEffect } from 'react';
+import { Skull, Shield, Sword, Flame, Heart } from 'lucide-react';
+
+const DiabloProfile = () => {
+  const [power, setPower] = useState(0);
+  const [demonPower, setDemonPower] = useState(false);
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setPower(prev => (prev + 1) % 100);
+      setDemonPower(prev => !prev);
+    }, 2000);
+    return () => clearInterval(interval);
+  }, []);
+
+  return (
+    <div className="w-full max-w-4xl mx-auto p-6 bg-gradient-to-b from-black via-red-950 to-black rounded-lg border border-red-900/30 shadow-2xl shadow-red-900/50 relative overflow-hidden">
+      {/* Header Demoníaco */}
+      <div className="relative flex justify-center items-center mb-8">
+        <h1 className="text-5xl font-serif text-transparent bg-clip-text bg-gradient-to-r from-red-800 via-red-600 to-red-800 animate-pulse">
+          SANCTUARY WARRIOR
+        </h1>
+        <Skull className="absolute -right-8 top-0 text-red-600 animate-pulse" size={32} />
+      </div>
+
+      {/* Power Bar */}
+      <div className="mb-6 p-4 bg-black/80 rounded border border-red-900/20 shadow-inner shadow-red-900/30">
+        <div className="flex justify-between items-center mb-2">
+          <span className="text-red-600 font-bold text-xl">DEMON POWER</span>
+          <span className="text-red-500 font-bold text-xl">{power * 666}</span>
+        </div>
+        <div className="w-full bg-red-950 rounded-sm h-4 overflow-hidden">
+          <div
+            className="h-full bg-gradient-to-r from-red-900 via-red-600 to-red-900 transition-all duration-500"
+            style={{ width: `${power}%` }}
+          >
+            <div className="w-full h-full animate-pulse"/>
+          </div>
+        </div>
+      </div>
+
+      {/* Stats Grid */}
+      <div className="grid grid-cols-3 gap-4 mb-6">
+        {[
+          { name: 'DEMONS SLAIN', icon: Skull, color: 'red' },
+          { name: 'BLOOD POWER', icon: Heart, color: 'red' },
+          { name: 'HELL MASTERY', icon: Flame, color: 'red' }
+        ].map((stat, index) => (
+          <div
+            key={stat.name}
+            className="bg-black/60 p-4 rounded border border-red-900/20 transform hover:scale-105 transition-all hover:bg-red-950/20 shadow-lg hover:shadow-red-900/50"
+          >
+            <div className="flex justify-center mb-2">
+              <stat.icon className={`text-${stat.color}-600`} size={24} />
+            </div>
+            <h3 className="text-red-500 font-bold mb-2">{stat.name}</h3>
+            <p className="text-red-600 text-2xl font-bold">
+              {Math.floor(Math.random() * 666)}
+            </p>
+          </div>
+        ))}
+      </div>
+
+      {/* Demon Power Effects */}
+      <div className="flex justify-around">
+        {[...Array(3)].map((_, i) => (
+          <div
+            key={i}
+            className={`transition-all duration-1000 transform ${
+              demonPower ? 'translate-y-0 opacity-100' : 'translate-y-4 opacity-0'
+            }`}
+            style={{ transitionDelay: `${i * 200}ms` }}
+          >
+            <Flame className="text-red-600" size={24} />
+          </div>
+        ))}
+      </div>
+
+      {/* Rune Marks */}
+      <div className="absolute top-0 left-0 w-full h-full pointer-events-none opacity-10">
+        {[...Array(5)].map((_, i) => (
+          <div
+            key={i}
+            className="absolute font-serif text-red-600 text-4xl transform rotate-45"
+            style={{
+              left: `${Math.random() * 100}%`,
+              top: `${Math.random() * 100}%`,
+            }}
+          >
+            ✠
+          </div>
+        ))}
+      </div>
+
+      {/* Background Glow */}
+      <div className="absolute top-0 left-0 w-full h-full pointer-events-none">
+        <div className="absolute w-64 h-64 bg-red-900 rounded-full blur-3xl opacity-20 -top-32 -left-32 animate-pulse" />
+        <div className="absolute w-64 h-64 bg-red-900 rounded-full blur-3xl opacity-20 -bottom-32 -right-32 animate-pulse" />
+      </div>
+    </div>
+  );
+};
+
+export default DiabloProfile;
