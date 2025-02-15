@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java%20-%23ED8B00.svg?&style=for-the-badge&logo=coffeescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL%20-%230066B6.svg?&style=for-the-badge&logo=postgremysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL%20-%230066B6.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Solidity%20-%23363636.svg?&style=for-the-badge&logo=solidity&logoColor=white"/>
 </p>
 
