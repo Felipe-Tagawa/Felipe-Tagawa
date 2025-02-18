@@ -42,7 +42,7 @@ Experiências
 
 ---
 
-<h2 align="center">⚡ Linguagens e IDEs ⚡</h2>
+<h2 align="center">⚡ Linguagens ⚡</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/C%20-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
@@ -52,7 +52,7 @@ Experiências
   <img src="https://img.shields.io/badge/Solidity%20-%23363636.svg?&style=for-the-badge&logo=solidity&logoColor=white"/>
 </p>
 
-<h2 align="center">💻 IDEs e Editores 💻</h2>
+<h2 align="center">💻 IDEs 💻</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Eclipse%20IDE-%232C2255.svg?&style=for-the-badge&logo=eclipse-ide&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/>
