@@ -41,7 +41,7 @@ Experiências
 - Professor Voluntário no Programa Cas@ Viva, no qual ministrei aulas para jovens no aprendizado de programação em Python.
 
 ---
-<h2 align="center">⚡ Linguagens e IDEs ⚡</h2>
+<h2 align="center">⚡ Linguagens ⚡</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/C%20-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
@@ -49,12 +49,18 @@ Experiências
   <img src="https://img.shields.io/badge/Java%20-%23ED8B00.svg?&style=for-the-badge&logo=coffeescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL%20-%230066B6.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Solidity%20-%23363636.svg?&style=for-the-badge&logo=solidity&logoColor=white"/>
-
-  <img src="https://img.shields.io/eclipse-marketplace/:interval/:name"/>
-
-  
-  
 </p>
+
+<h2 align="center">💻 IDEs e Editores 💻</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Eclipse%20-%232C2255.svg?&style=for-the-badge&logo=eclipse-ide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA%20-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CLion%20-%2300A5E0.svg?&style=for-the-badge&logo=clion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm%20-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Falcon%20C++%20-%23212121.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
+
 
 ---
 
