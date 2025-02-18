@@ -49,6 +49,11 @@ Experiências
   <img src="https://img.shields.io/badge/Java%20-%23ED8B00.svg?&style=for-the-badge&logo=coffeescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL%20-%230066B6.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Solidity%20-%23363636.svg?&style=for-the-badge&logo=solidity&logoColor=white"/>
+
+  <img src="https://img.shields.io/eclipse-marketplace/:interval/:name"/>
+
+  
+  
 </p>
 
 ---
