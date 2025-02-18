@@ -60,6 +60,8 @@ Experiências
   <img src="https://img.shields.io/badge/PyCharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Falcon%20C++-%2300599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </p>
 
 ---
