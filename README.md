@@ -41,7 +41,7 @@ Experiências
 - Professor Voluntário no Programa Cas@ Viva, no qual ministrei aulas para jovens no aprendizado de programação em Python.
 
 ---
-<h2 align="center">⚡ Linguagens ⚡</h2>
+<h2 align="center">⚡ Linguagens e IDEs ⚡</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/C%20-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
