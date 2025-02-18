@@ -34,6 +34,13 @@
 </table>
 
 ---
+
+Experiências
+
+- Monitor nas disciplinas de Algoritmos I (Programação em C++), física II e Eletrônica Digital I.
+- Professor Voluntário no Programa Cas@ Viva, no qual ministrei aulas para jovens no aprendizado de programação em Python.
+
+---
 <h2 align="center">⚡ Tech Stack ⚡</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/C%20-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/>
