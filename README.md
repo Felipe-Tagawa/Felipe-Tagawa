@@ -66,7 +66,7 @@ Experiências
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OKamizura&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Felipe-Tagawa&theme=github-compact)
 
 ---
 <h2 align="center">🌟 Entre em contato 🌟</h2>
