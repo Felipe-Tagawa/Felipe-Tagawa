@@ -52,7 +52,7 @@ Experiências
   <img src="https://img.shields.io/badge/Solidity%20-%23363636.svg?&style=for-the-badge&logo=solidity&logoColor=white"/>
 </p>
 
-<h2 align="center">💻 IDEs 💻</h2>
+<h2 align="center">💻 IDEs & Ferramentas 💻</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Eclipse%20IDE-%232C2255.svg?&style=for-the-badge&logo=eclipse-ide&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/>
@@ -61,7 +61,9 @@ Experiências
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Falcon%20C++-%2300599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL%20Workbench-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Ganache-%234E3E31.svg?&style=for-the-badge&logo=ganache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Remix%20IDE-%23321C94.svg?&style=for-the-badge&logo=remix&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blockchain-%230091EB.svg?&style=for-the-badge&logo=blockchaindotcom&logoColor=white"/>
 </p>
 
 ---
