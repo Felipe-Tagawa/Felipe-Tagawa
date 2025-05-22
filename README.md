@@ -66,7 +66,10 @@ Experiências
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Felipe-Tagawa&theme=github-compact)
+<h2 align="center">📊 Estatísticas das Linguagens 📊</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Tagawa&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFF&icon_color=FF6B35&langs_count=8" alt="Most Used Languages" />
+</p>
 
 ---
 <h2 align="center">🌟 Entre em contato 🌟</h2>
