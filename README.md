@@ -64,7 +64,9 @@ Experiências
   <img src="https://img.shields.io/badge/Ganache-%234E3E31.svg?&style=for-the-badge&logo=ganache&logoColor=white"/>
   <img src="https://img.shields.io/badge/Remix%20IDE-%23321C94.svg?&style=for-the-badge&logo=remix&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blockchain-%230091EB.svg?&style=for-the-badge&logo=blockchaindotcom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
+
 
 ---
 
