@@ -32,8 +32,8 @@
 
 Experiências
 
-- Monitor nas disciplinas de Algoritmos I (Programação em C++), física II e Eletrônica Analógica.
-- Professor Voluntário no Programa Cas@ Viva, no qual ministrei aulas para jovens no aprendizado de programação em Python.
+- Monitor nas disciplinas de Algoritmos I (Programação em C++), física I e II, Eletrônica Analógica e Banco de Dados.
+- Professor Voluntário no Programa Cas@ Viva, no qual ministrei aulas para jovens no aprendizado de programação em Python(2023.2 e 2025.2).
 
 ---
 
