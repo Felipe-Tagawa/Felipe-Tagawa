@@ -62,7 +62,7 @@ Experiências
 <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/FlutterFlow-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino%20IDE-%2309A1D5.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/SimulIDE-%23F7931E.svg?&style=for-the-badge&logo=simulide&logoColor=white"/>
+<img src="https://img.shields.io/badge/SimulIDE-%23F7931E.svg?&style=for-the-badge&logo=simulide&logoColor=black"/>
 
 </p>
 
