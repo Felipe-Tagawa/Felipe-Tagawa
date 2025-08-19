@@ -19,7 +19,7 @@
 <td>
 
 - **Nome:** Felipe Tagawa 🌟 
-- **Interesses:** C++, Python, Java, Data Analysis 💻
+- **Interesses:** Python, Java, Data Analysis 💻
 - **Ocupação:** Estudante de Engenharia de Computação 🎓
 </td>
 <td>
