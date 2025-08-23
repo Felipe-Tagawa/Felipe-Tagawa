@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="github-header.svg" width="800" height="100" alt="Welcome to My Profile">
+  <img src="github-header.svg" width="800" height="100" alt="Bem Vindo ao Meu Perfil">
 </div>
 
 <p align="center">
