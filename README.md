@@ -18,7 +18,7 @@
 <tr>
 <td>
 
-- **Nome:** Felipe Tagawa 🌟 
+- **Nome:** Felipe Tagawa Reis 🌟 
 - **Interesses:** Python, Java, Data Analysis 💻
 - **Ocupação:** Estudante de Engenharia de Computação 🎓
 </td>
