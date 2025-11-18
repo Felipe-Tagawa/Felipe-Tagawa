@@ -80,10 +80,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/master/assets/3d-profile.gif" width="300">
-
----
-
 <h2 align="center">🌟 Entre em contato 🌟</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/felipe-tagawa/">
