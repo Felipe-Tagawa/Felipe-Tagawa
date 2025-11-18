@@ -1,39 +1,47 @@
-name: Generate Snake
+name: Generate and commit GitHub Snake
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
+# Dá permissão de escrita no conteúdo do repo para o GITHUB_TOKEN
 permissions:
   contents: write
 
 jobs:
-  build:
+  build-and-commit:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
 
-      - name: Generate snake animation
+      - name: Generate Snake assets
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Upload artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: snake
-          path: dist/
+      - name: Show generated files
+        run: ls -la dist || true
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Add and commit dist if changed
+        run: |
+          git add dist || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update generated snake assets [ci skip]" || true
+            git push origin HEAD:${{ github.ref_name }}
+          else
+            echo "No changes to commit"
+          fi
