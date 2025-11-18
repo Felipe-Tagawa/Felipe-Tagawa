@@ -90,8 +90,6 @@
 
 ---
 
-<h2 align="center">🐍 Snake Game do GitHub 🐍</h2>
-
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
