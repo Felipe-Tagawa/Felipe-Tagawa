@@ -13,6 +13,7 @@
 </p>
 
 ---
+
 <h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Sobre mim </h2>
 <table>
 <tr>
@@ -30,10 +31,10 @@
 
 ---
 
-Experiências
+### Experiências
 
 - Monitor nas disciplinas de Algoritmos I (Programação em C++), física I e II, Eletrônica Analógica e Banco de Dados.
-- Professor Voluntário no Programa Cas@ Viva, no qual ministrei aulas para jovens no aprendizado de programação em Python(2023.2 e 2025.2).
+- Professor Voluntário no Programa Cas@ Viva, no qual ministrei aulas para jovens no aprendizado de programação em Python (2023.2 e 2025.2).
 
 ---
 
@@ -62,9 +63,7 @@ Experiências
 <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/FlutterFlow-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino%20IDE-%2309A1D5.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>
-
 </p>
-
 
 ---
 
@@ -74,6 +73,7 @@ Experiências
 </p>
 
 ---
+
 <h2 align="center">🌟 Entre em contato 🌟</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/felipe-tagawa/">
@@ -85,5 +85,17 @@ Experiências
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OKamizura&color=blueviolet&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=Felipe-Tagawa&color=blueviolet&style=flat-square">
+</p>
+
+---
+
+<h2 align="center">🐍 Snake Game do GitHub 🐍</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
 </p>
