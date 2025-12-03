@@ -55,29 +55,63 @@
 
 ---
 
+
 <h2 align="center">
-  🛡️ Projetos 🛡️
+  🛡️ Projetos 🛡️
 </h2>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header&text=&fontSize=0" width="80%"/>
-</div>
-<br>
+<table style="border: 3px solid #8b4513; background: linear-gradient(to bottom, #f5e6d3, #e8d5bc); width: 95%;">
+  
+  <tr>
+    <td width="15%" align="center">
+      <h3 style="color: #2c1810;">Cryp2Real</h3>
+      <img src="https://cdn-icons-png.flaticon.com/512/2152/2152539.png" width="50">
+    </td>
+    <td width="65%" style="color: #2c1810;">
+      <b>Descrição:</b> Sistema focado em conversão e segurança de criptoativos em tempo real - como uma corretora.<br>
+      <b>Techs:</b> Python, Solidity (Smart Contracts), API Flask, Flutter Flow.
+    </td>
+    <td width="20%" align="center">
+      <a href="https://github.com/Felipe-Tagawa/Cryp2Real">
+        <img src="https://img.shields.io/badge/Ver_Repo-2c1810?style=for-the-badge&logo=github&logoColor=d4a574">
+      </a>
+    </td>
+  </tr>
 
-<div align="center">
-  <a href="https://github.com/Felipe-Tagawa/Cryp2Real">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-Tagawa&repo=Cryp2Real&theme=gruvbox&hide_border=true&bg_color=2c1810&title_color=d4a574&text_color=f5e6d3&icon_color=8b4513" />
-  </a>
-  &nbsp; 
-  <a href="https://github.com/Felipe-Tagawa/Questweaver">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-Tagawa&repo=Questweaver&theme=gruvbox&hide_border=true&bg_color=2c1810&title_color=d4a574&text_color=f5e6d3&icon_color=8b4513" />
-  </a>
+  <tr>
+    <td width="15%" align="center">
+      <h3 style="color: #2c1810;">Questweaver</h3>
+      <img src="https://cdn-icons-png.flaticon.com/512/3408/3408506.png" width="50">
+    </td>
+    <td width="65%" style="color: #2c1810;">
+      <b>Descrição:</b> Sistema/Minigame RPG inserido dentro do Minecraft.<br>
+      <b>Techs:</b> Java, Estudo de Pipeline, Criação de testes automatizados e Mocks.
+    </td>
+    <td width="20%" align="center">
+      <a href="https://github.com/Felipe-Tagawa/Questweaver">
+        <img src="https://img.shields.io/badge/Ver_Repo-2c1810?style=for-the-badge&logo=github&logoColor=d4a574">
+      </a>
+    </td>
+  </tr>
 
-  <br><br>
+  <tr>
+    <td width="15%" align="center">
+      <h3 style="color: #2c1810;">OO Project</h3>
+      <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="50">
+    </td>
+    <td width="65%" style="color: #2c1810;">
+      <b>Descrição:</b> Jogo simples baseado em Persona 3 demonstrando os pilares da Orientação a Objetos.<br>
+      <b>Techs:</b> Java, OOP.
+    </td>
+    <td width="20%" align="center">
+      <a href="https://github.com/Felipe-Tagawa/OO-Project">
+        <img src="https://img.shields.io/badge/Ver_Repo-2c1810?style=for-the-badge&logo=github&logoColor=d4a574">
+      </a>
+    </td>
+  </tr>
 
-  <a href="https://github.com/Felipe-Tagawa/OO-Project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-Tagawa&repo=OO-Project&theme=gruvbox&hide_border=true&bg_color=2c1810&title_color=d4a574&text_color=f5e6d3&icon_color=8b4513" />
-  </a>
+</table>
 </div>
 
 <br>
