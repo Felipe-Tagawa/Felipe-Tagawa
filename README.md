@@ -56,6 +56,35 @@
 ---
 
 <h2 align="center">
+  🛡️ Projetos 🛡️
+</h2>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header&text=&fontSize=0" width="80%"/>
+</div>
+<br>
+
+<div align="center">
+  <a href="https://github.com/Felipe-Tagawa/Cryp2Real">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-Tagawa&repo=Cryp2Real&theme=gruvbox&hide_border=true&bg_color=2c1810&title_color=d4a574&text_color=f5e6d3&icon_color=8b4513" />
+  </a>
+  &nbsp; 
+  <a href="https://github.com/Felipe-Tagawa/Questweaver">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-Tagawa&repo=Questweaver&theme=gruvbox&hide_border=true&bg_color=2c1810&title_color=d4a574&text_color=f5e6d3&icon_color=8b4513" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/Felipe-Tagawa/OO-Project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-Tagawa&repo=OO-Project&theme=gruvbox&hide_border=true&bg_color=2c1810&title_color=d4a574&text_color=f5e6d3&icon_color=8b4513" />
+  </a>
+</div>
+
+<br>
+
+---
+
+<h2 align="center">
   ⚔️ Linguagens ⚔️
 </h2>
 
