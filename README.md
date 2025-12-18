@@ -169,19 +169,8 @@
 <h2 align="center">📜 Estatísticas 📜</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Tagawa
-&layout=compact
-&theme=gruvbox
-&hide_border=true
-&bg_color=2c1810
-&title_color=d4a574
-&text_color=f5e6d3
-&icon_color=8b4513
-&langs_count=10
-&include_all_commits=true
-&count_private=false
-&hide=html,css,dockerfile,makefile,shell,batchfile,jupyter%20notebook
-&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Tagawa&layout=compact&theme=gruvbox&hide_border=true&bg_color=2c1810&title_color=d4a574&text_color=f5e6d3&icon_color=8b4513&langs_count=10&include_all_commits=true&count_private=false&hide=html,css,dockerfile,makefile,shell,batchfile,jupyter%20notebook&border_radius=10" />
+</p>
 
 </p>
 
