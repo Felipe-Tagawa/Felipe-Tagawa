@@ -37,21 +37,15 @@
 </h2>
 
 <div align="center">
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-    🏯 Monitor em Algoritmos I (C++), Física I e II
-       Eletrônica Analógica, Banco de Dados I
-                  Cálculo Numérico
-       
-    🎓 Professor Voluntário no Programa Cas@ Viva
-       Ensinando Python a jovens
-       Períodos: 2023.2 e 2025.2
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
+  <p>
+    🏯 <b>Monitoria Inatel</b><br>
+    <i>Algoritmos I (C++), Física I e II, Eletrônica Analógica, Banco de Dados I e Cálculo Numérico</i>
+  </p>
+  <img src="[https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Label.png](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Label.png)" width="20px">
+  <p>
+    🎓 <b>Professor Voluntário - Programa Cas@ Viva</b><br>
+    <i>Ensinando Python para jovens (2023.2 | 2025.2)</i>
+  </p>
 </div>
 
 ---
