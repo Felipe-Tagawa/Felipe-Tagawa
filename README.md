@@ -18,7 +18,7 @@
 
 **Curso:** Engenharia de Computação
 
-**Interesses:** Python | Java | Data Analysis
+**Interesses:** Python | Java | Data Analysis | IA
 
 **Universidade:** INATEL
 
@@ -42,7 +42,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     🏯 Monitor em Algoritmos I (C++), Física I e II
-       Eletrônica Analógica e Banco de Dados
+       Eletrônica Analógica, Banco de Dados I e Cálculo Numérico
        
     🎓 Professor Voluntário no Programa Cas@ Viva
        Ensinando Python a jovens
