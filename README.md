@@ -42,7 +42,8 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     🏯 Monitor em Algoritmos I (C++), Física I e II
-       Eletrônica Analógica, Banco de Dados I e Cálculo Numérico
+       Eletrônica Analógica, Banco de Dados I
+                  Cálculo Numérico
        
     🎓 Professor Voluntário no Programa Cas@ Viva
        Ensinando Python a jovens
