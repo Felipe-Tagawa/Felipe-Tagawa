@@ -1,9 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c1810,100:8b4513&height=250&section=header&text=BEM%20VINDO%20AO%20MEU%20PERFIL&fontSize=50&fontColor=f5e6d3&animation=fadeIn&fontAlignY=35&desc=Felipe%20Tagawa%20Reis&descAlignY=55&descAlign=50&descSize=20" width="100%"/>
 </div>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&size=28&duration=3000&pause=1000&color=8B4513&center=true&vCenter=true&width=600&lines=Backend+Developer" alt="Typing SVG" />
-</p>
 
 ---
 
