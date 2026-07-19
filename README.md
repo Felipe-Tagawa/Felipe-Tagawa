@@ -11,11 +11,9 @@
 
 ### 🗡️ **Sobre mim**
 
-**Nome:** Felipe Tagawa Reis
-
 **Curso:** Engenharia de Computação
 
-**Interesses:** Python | Java | Data Analysis | IA
+**Interesses:** SQL | Data Engineer | Data Analysis | Databricks | ETL
 
 **Universidade:** INATEL
 
@@ -144,7 +142,6 @@
 <img src="https://skillicons.dev/icons?i=clion&theme=dark" width="65" title="CLion"/>
 <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="65" title="PyCharm"/>
 <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="65" title="VS Code"/>
-<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="65" title="Falcon C++"/>
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="65" title="MySQL Workbench"/>
 <img src="https://skillicons.dev/icons?i=remix&theme=dark" width="65" title="Remix IDE"/>
 <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="65" title="Postman"/>
@@ -157,16 +154,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
-
-<h2 align="center">📜 Estatísticas 📜</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Tagawa&layout=compact&theme=gruvbox&hide_border=true&bg_color=2c1810&title_color=d4a574&text_color=f5e6d3&icon_color=8b4513&langs_count=10&include_all_commits=true&count_private=false&hide=html,css,dockerfile,makefile,shell,batchfile,jupyter%20notebook&border_radius=10" />
-</p>
-
-</p>
-
----
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Felipe-Tagawa&theme=gruvbox&hide_border=true&background=2c1810&ring=d4a574&fire=8b4513&currStreakLabel=f5e6d3&border_radius=10" />
