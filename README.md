@@ -9,7 +9,7 @@
 <tr>
 <td align="center" width="50%">
 
-### 🗡️ **Sobre mim**
+### **Sobre mim**
 
 **Curso:** Engenharia de Computação
 
@@ -27,18 +27,17 @@
 ---
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="30px">
-  Jornada
+  Trajetória
 </h2>
 
 <div align="center">
   <p>
-    🏯 <b>Monitoria Inatel</b><br>
+    <b>Monitoria Inatel</b><br>
     <i>Algoritmos I (C++), Física I e II, Eletrônica Analógica, Banco de Dados I e Cálculo Numérico</i>
   </p>
   <img src="[https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Label.png](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Label.png)" width="20px">
   <p>
-    🎓 <b>Professor Voluntário - Programa Cas@ Viva</b><br>
+    <b>Professor Voluntário - Programa Cas@ Viva</b><br>
     <i>Ensinando Python para jovens (2023.2 | 2025.2)</i>
   </p>
 </div>
@@ -47,7 +46,7 @@
 
 
 <h2 align="center">
-  🛡️ Projetos 🛡️
+  Projetos
 </h2>
 
 <div align="center">
@@ -109,7 +108,7 @@
 ---
 
 <h2 align="center">
-  ⚔️ Linguagens ⚔️
+  Linguagens
 </h2>
 
 <div align="center">
@@ -133,7 +132,7 @@
 ---
 
 <h2 align="center">
-  🏮 Ferramentas 🏮
+  Ferramentas
 </h2>
 
 <p align="center">
@@ -166,7 +165,7 @@
 </div>
 
 <h2 align="center">
-  🌸 Canais de Comunicação 🌸
+  Contato
 </h2>
 
 <p align="center">
